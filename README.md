@@ -1,12 +1,16 @@
 # GBI6_ExamenPython
 examen-maria jose auquilla 
-
-1. Cree en GitHub un repositorio de nombre ```GBI6_ExamenPython```. 
-2. Cree un archivo ```Readme.md``` que debe tener lo siguiente: 
 #Datos personales
-#Características del computador
-Nombre del dispositivo LAPTOP-CUSHFCG5
 
+Nombres y Apellidos: Maria Jose Auquilla Villamagua
+Cedula: 1105790867
+Fecha de nacimiento: 04 de abril de 1996
+Edad: 25 años
+Ciudad natal: Loja
+
+#Características del computador
+
+Nombre del dispositivo LAPTOP-CUSHFCG5
 Procesador Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz 2.20 GHz
 
 RAM instalada 8,00 GB
