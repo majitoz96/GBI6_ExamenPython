@@ -8,7 +8,7 @@ Fecha de nacimiento: 04 de abril de 1996
 Edad: 25 años
 Ciudad natal: Loja
 
-#Características del computador
+# Características del computador
 
 Nombre del dispositivo LAPTOP-CUSHFCG5
 Procesador Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz 2.20 GHz
