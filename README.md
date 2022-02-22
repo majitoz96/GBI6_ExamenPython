@@ -28,11 +28,7 @@ Tipo de sistema Sistema operativo de 64 bits, procesador x64
 
 Lápiz y entrada táctil Compatibilidad con entrada táctil con 10 puntos táctiles
 # Versión de Python/Anaconda y de cada uno de los módulos/paquetes y utilizados
+Version Base 3.8.8
+
 # Explicación de la data utilizada
-
-3. Cree un directorio de nombre ```data``` donde deben estar guardado la data utilizada 
-4. Realice al menos 1 control de la versión (commits) por cada ejercicio (del 1 al 6), con un mensaje que inicie como: 
-
-```sh 
-Carlitos Alimaña ha realizado .....  
-```
+Maria Jose Auquilla a realizado el ejercicio 1 aplicando 
