@@ -1,5 +1,7 @@
 # GBI6_ExamenPython
-Examen-maria jose auquilla 
+Examen-Maria Jose Auquilla Villamagua  
+Repositorio: GBI6_ExamenPython
+
 # Datos personales
 
 Nombres y Apellidos: Maria Jose Auquilla Villamagua
