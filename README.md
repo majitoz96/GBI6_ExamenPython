@@ -1,16 +1,21 @@
 # GBI6_ExamenPython
-examen-maria jose auquilla 
-#Datos personales
+Examen-maria jose auquilla 
+# Datos personales
 
 Nombres y Apellidos: Maria Jose Auquilla Villamagua
+
 Cedula: 1105790867
+
 Fecha de nacimiento: 04 de abril de 1996
+
 Edad: 25 años
+
 Ciudad natal: Loja
 
 # Características del computador
 
 Nombre del dispositivo LAPTOP-CUSHFCG5
+
 Procesador Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz 2.20 GHz
 
 RAM instalada 8,00 GB
