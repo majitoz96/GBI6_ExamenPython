@@ -30,7 +30,37 @@ Tipo de sistema Sistema operativo de 64 bits, procesador x64
 
 Lápiz y entrada táctil Compatibilidad con entrada táctil con 10 puntos táctiles
 # Versión de Python/Anaconda y de cada uno de los módulos/paquetes y utilizados
-Version Base 3.8.8
+Version Base python 3.8.8
+- Bio (Entrez, SeqIO, Phylo, AlignIO)
 
+- pandas
+
+- numpy
+
+- re
+
+- csv
+
+- itertools
+
+- importlib
+
+- matplotlib (pyplot)
+
+- scipy
+
+- Bio.Seq (Seq)
+
+- IPython.core.display (Image)
+
+- Bio.Phylo.TreeConstruction (DistanceCalculator)
+
+- Bio.Phylo.TreeConstruction (DistanceTreeConstructor)
+
+- Bio.Align.Applications (ClustalwCommandline)
+
+- os
+
+- ipywidgets
 # Explicación de la data utilizada
 Maria Jose Auquilla a realizado el ejercicio 1 aplicando 
