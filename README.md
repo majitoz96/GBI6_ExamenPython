@@ -62,5 +62,3 @@ Version Base python 3.8.8
 - os
 
 - ipywidgets
-# Explicación de la data utilizada
-Maria Jose Auquilla a realizado el ejercicio 1 aplicando 
